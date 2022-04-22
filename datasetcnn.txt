@@ -1,4 +1,3 @@
 https://www.kaggle.com/datasets/zalando-research/fashionmnist  لينك الداتا
 نظرا لان حجم الداتااكبرمن25 ميجا 
       
-https://www.kaggle.com/code/bugraokcu/cnn-with-keras/notebook   لينك الكود
